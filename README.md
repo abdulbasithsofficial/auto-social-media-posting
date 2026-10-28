@@ -1,3 +1,5 @@
+![Thumbnail](thumbnail.png)
+
 # SocialPost-Agent
 
 Draft, approve, queue and publish social posts — without posting anything live by accident.
