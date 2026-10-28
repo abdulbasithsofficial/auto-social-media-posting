@@ -1,0 +1,7 @@
+{
+  "hashtags": "#AI #AIAgents #EasyAIAgents #VoiceAI",
+  "max_posts_per_day_per_platform": 5,
+  "threads_account_id": "<THREADS_ACCOUNT_ID>",
+  "instagram_account_id": "<INSTAGRAM_ACCOUNT_ID>",
+  "note": "Replace the account IDs after you connect Facebook/Instagram/Threads in Muse. Never put passwords or tokens in this file."
+}
